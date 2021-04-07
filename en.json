@@ -5,6 +5,8 @@
     "temp1":"temp2",
     "uivar3": {
         "uisubvar1": "value13",
-        "sdf-1": "fsd-1"
+        "sdf-1": "fsd-1",
+        "tab1":"tab1",
+        "tab2":"tab2"
     }
 }
