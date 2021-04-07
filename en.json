@@ -6,6 +6,7 @@
     "uivar3": {
         "uisubvar1": "value13",
         "sdf-1": "fsd-1",
-        "dog":"t-dog"
+        "dog":"t-dog",
+        "cat": "t-cat"
     }
 }
