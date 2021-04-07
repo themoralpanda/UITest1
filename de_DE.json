@@ -4,6 +4,7 @@
     "key1": "sdf1",
     "temp1": "temp2",
     "uivar3": {
-        "uisubvar1": "value13"
+        "uisubvar1": "value13",
+        "sdf-1": "fsd-1"
     }
 }
